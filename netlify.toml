@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to ="/jiomartwebsite.html"
+status = 200
